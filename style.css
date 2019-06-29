@@ -133,9 +133,10 @@ h2{
     justify-content: space-around;
 }
 #image-wrapper img{
-    height: 300px;
-    width: 400px;
+    height: 400px;
+    width: 500px;
     flex-grow: 0;
+    padding: 3%;
 }
 .info #image p{
     padding-bottom: 3%;
