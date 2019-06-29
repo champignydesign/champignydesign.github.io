@@ -134,7 +134,7 @@ h2{
 }
 #image-wrapper img{
     height: 300px;
-    width: 300px;
+    width: 400px;
     flex-grow: 0;
 }
 .info #image p{
