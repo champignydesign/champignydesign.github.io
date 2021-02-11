@@ -52,9 +52,13 @@ div{
     padding-bottom: 5%;
 }
 p{
-    font-family: 'Roboto', sans-serif;
     text-align: center;
     padding-top: 5%;
+}
+#about{
+     font-family: 'Roboto', sans-serif;
+     text-align: center;
+     padding-top:5%;
 }
 section{
     display: flex;
