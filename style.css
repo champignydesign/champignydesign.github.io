@@ -54,6 +54,7 @@ div{
 p{
     text-align: center;
     padding-top: 5%;
+    padding-bottom: -5%;
 }
 #about{
      font-family: 'Roboto', sans-serif;
